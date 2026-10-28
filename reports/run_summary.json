@@ -1,0 +1,49 @@
+{
+  "data_mode": "local_research_data",
+  "years": [
+    2015,
+    2017,
+    2019
+  ],
+  "raw_responses": 576452,
+  "complete_responses": 400742,
+  "raw_sites": 44,
+  "included_sites": 43,
+  "retention_pct": 69.52,
+  "join_audit": {
+    "survey_rows": 400742,
+    "joined_rows": 400742,
+    "matched_rows": 400742,
+    "unmatched_rows": 0,
+    "rows_missing_policy_covariates": 0
+  },
+  "sources": [
+    {
+      "file": "SADC_2019_State_A_M_sadcqn_trunc.csv",
+      "sha256": "83a298e14062cb18adcc1391ae9469dc78a3a9a95d873a5f1e86a2bc9e677831",
+      "rows": 322957,
+      "q34_source": "qn34",
+      "q35_source": "qn35"
+    },
+    {
+      "file": "SADC_2019_State_N_Z_sadcq_trunc.csv",
+      "sha256": "d4c3573d93fe4705f8909565ed0a2d6076511dc64a62ce3329be4df1395c7d48",
+      "rows": 253495,
+      "q34_source": "q34",
+      "q35_source": "q35"
+    },
+    {
+      "file": "E-cig_tax.xlsx",
+      "sha256": "948abde98c4d2210941d273d171f2c4184363d52fc3205b40aaaa434e848a2b9",
+      "rows": 150
+    }
+  ],
+  "q35_coding": "raw seven-category frequency; 1=0 days, 7=30 days",
+  "original_analysis_language": "Stata",
+  "companion_languages": [
+    "Python",
+    "SQL"
+  ],
+  "population_estimates": false,
+  "causal_effects_estimated": false
+}

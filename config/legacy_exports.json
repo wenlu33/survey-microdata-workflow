@@ -1,0 +1,8 @@
+{
+  "survey_sources": [
+    {"path": "raw/SADC_2019_State_A_M_sadcqn_trunc.csv", "q34": "qn34", "q35": "qn35"},
+    {"path": "raw/SADC_2019_State_N_Z_sadcq_trunc.csv", "q34": "q34", "q35": "q35"}
+  ],
+  "policy": "raw/E-cig_tax.xlsx",
+  "policy_rename": {"FIPS Code": "fips"}
+}

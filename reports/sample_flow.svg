@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+<rect width="1200" height="750" fill="#f7f8fa"/>
+<rect x="30" y="30" width="1140" height="690" rx="22" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172b3a">
+<text x="66" y="82" font-size="18" fill="#167c80">YRBS pooled state-site responses | 2015, 2017, 2019</text>
+<text x="66" y="128" font-size="32" font-weight="700">From survey records to an analysis-ready sample</text>
+<text x="66" y="172" font-size="21">400,742 complete responses | 69.5% retained</text>
+<text x="66" y="236" font-size="19">Starting sample</text>
+<rect x="340" y="214" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="214" width="570.00" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="237" font-size="21" text-anchor="end">576,452</text>
+<text x="66" y="289" font-size="19">Age observed</text>
+<rect x="340" y="267" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="267" width="567.33" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="290" font-size="21" text-anchor="end">573,756</text>
+<text x="66" y="342" font-size="19">Sex observed</text>
+<rect x="340" y="320" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="320" width="563.18" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="343" font-size="21" text-anchor="end">569,555</text>
+<text x="66" y="395" font-size="19">Grade observed</text>
+<rect x="340" y="373" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="373" width="557.98" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="396" font-size="21" text-anchor="end">564,292</text>
+<text x="66" y="448" font-size="19">Race/ethnicity observed</text>
+<rect x="340" y="426" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="426" width="544.66" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="449" font-size="21" text-anchor="end">550,821</text>
+<text x="66" y="501" font-size="19">Lifetime use observed</text>
+<rect x="340" y="479" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="479" width="450.20" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="502" font-size="21" text-anchor="end">455,301</text>
+<text x="66" y="554" font-size="19">Frequency observed</text>
+<rect x="340" y="532" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="532" width="425.36" height="31" rx="5" fill="#a9ced0"/>
+<text x="1085" y="555" font-size="21" text-anchor="end">430,178</text>
+<text x="66" y="607" font-size="19">BMI observed</text>
+<rect x="340" y="585" width="570" height="31" rx="5" fill="#edf2f4"/>
+<rect x="340" y="585" width="396.26" height="31" rx="5" fill="#16858a"/>
+<text x="1085" y="608" font-size="21" text-anchor="end">400,742</text>
+<text x="66" y="675" font-size="16" fill="#556675">Sequential complete-case filters. Counts describe the available sample; they are unweighted.</text>
+</g></svg>

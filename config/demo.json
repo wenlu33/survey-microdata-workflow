@@ -1,0 +1,4 @@
+{
+  "survey_sources": [{"path": "survey_synthetic.csv", "q34": "q34", "q35": "q35"}],
+  "policy": "policy_synthetic.csv"
+}

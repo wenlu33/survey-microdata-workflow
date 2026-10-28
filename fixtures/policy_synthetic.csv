@@ -1,0 +1,7 @@
+sitecode,year,fips,ecigtax,ecigtax_c,yearly_unemployrate,banned
+XA,2015,91,0.1,1,5.0,1
+XA,2017,91,0.1,1,5.0,1
+XA,2019,91,0.1,1,5.0,1
+XB,2015,92,0.2,1,5.0,0
+XB,2017,92,0.2,1,5.0,0
+XB,2019,92,0.2,1,5.0,0
